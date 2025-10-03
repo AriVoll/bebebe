@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <string.h>
+
+int main(){
+char input[100];
+fgets(input,100, stdin);
+while(input !="/q" ){
+
+fgets(input,100, stdin);
+if(strstr(str, "/q") != NULL)
+{
+strstr(str, "\n") = 0)
+printf("%s: closing...\n", input);
+break;
+}
+
+}
+
+
+return 0;
+}
