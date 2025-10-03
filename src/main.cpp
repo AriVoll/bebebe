@@ -2,10 +2,10 @@
 #include <string>
 
 int main() {
-   std::string input;
-   std::cout<<"vvedi stroky";
-   std::getline(std::cin,input);
-   std::cout<<"ti vvel:"<<input<<std::endl;
+   //std::string input;
+   //std::cout<<"vvedi stroky";
+   //std::getline(std::cin,input);
+   //std::cout<<"ti vvel:"<<input<<std::endl;
 
 
   std::cout << std::unitbuf;
